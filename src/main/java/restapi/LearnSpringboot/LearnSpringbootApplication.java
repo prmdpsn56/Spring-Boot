@@ -10,7 +10,4 @@ public class LearnSpringbootApplication {
 		SpringApplication.run(LearnSpringbootApplication.class, args);
 	}
 
-	public LearnSpringbootApplication() {
-		System.out.println("test");
-	}
 }
