@@ -1,0 +1,4 @@
+--create table course (id bigint  not null AUTO_INCREMENT, name varchar(255) not null, author varchar(255) not null, primary key(id));
+--insert into course (id, name, author) values (1,'Param','Param');
+--
+----

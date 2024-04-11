@@ -1,10 +1,10 @@
-package restapi.LearnSpringboot;
+package com.example.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LearnSpringbootApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
